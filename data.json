@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "name": "Nasir Farhadi",
+    "role": "Frontend Developer",
+    "slogan": "Code with Precision.",
+    "description": "Expert in Angular & Modern Frontend Architectures.",
+    "currentRole": {
+      "title": "Frontend Developer @",
+      "company": "Next Top Tech",
+      "link": "https://www.linkedin.com/company/next-top-tech"
+    },
+    "highlights": [
+      { "icon": "fas fa-bolt", "text": "Angular CLI & Material" },
+      { "icon": "fas fa-box-open", "text": "JavaScript Expert" },
+      { "icon": "fas fa-shield-alt", "text": "5+ Years Experience" }
+    ]
+  },
+  "journey": [
+    { "date": "May 2020 - Present", "role": "Frontend Developer", "company": "Next Top Tech" },
+    { "date": "July 2019 - Aug 2020", "role": "Frontend Developer", "company": "SigmalTID" },
+    { "date": "Sep 2018 - Mar 2019", "role": "Frontend Developer", "company": "Oxin virtual trade" },
+    { "date": "Aug 2015 - Present", "role": "UI Designer", "company": "Koroo Software Group" }
+  ],
+  "skills": ["Angular CLI", "Angular Material", "JavaScript", "TypeScript", "Adobe Photoshop", "XSLT", "UI Design"],
+  "recommendations": [
+    { "text": "Nasir Farhadi possesses strong technical skills and implements features with remarkable precision.", "author": "Reza Basereh", "position": "Technical Team Lead" },
+    { "text": "I can truthfully say that Nasir is the most effective and high-capacity Front-End Developer I have ever worked alongside.", "author": "Hamidreza Hematyar", "position": ".NetCore Developer" }
+  ],
+  "socials": {
+    "github": "https://github.com/nasirfarhadi92",
+    "linkedin": "https://www.linkedin.com/in/nasir-farhadi/",
+    "telegram": "https://t.me/Nasirfarhadi",
+    "cvLink": "YOUR_CV_FILE.pdf"
+  }
+}
