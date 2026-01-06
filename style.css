@@ -53,3 +53,8 @@ section { padding: 60px 0; }
     .hero-title { font-size: 2rem; }
     .info-bar { flex-direction: column; border-radius: 25px; padding: 25px; gap: 20px; }
 }
+
+@media (max-width: 400px) {
+    .hero-title { font-size: 1.5rem; }
+    .timeline { max-width: 94%; margin-left: auto;}
+}

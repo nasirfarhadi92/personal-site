@@ -41,7 +41,7 @@ function renderHero(data) {
                 </div>
                 <a href="${data.socials.linkedin}" target="_blank" class="btn-orange">LinkedIn Profile</a>
             </div>
-            <div class="mt-5 d-flex justify-content-center flex-wrap gap-5 text-muted small fw-bold">
+            <div class="mt-5 d-flex flex-column flex-sm-row justify-content-center flex-wrap gap-5 text-muted small fw-bold">
                 ${data.hero.highlights.map(h => `<span><i class="${h.icon} highlight me-1"></i> ${h.text}</span>`).join('')}
             </div>
         `;
